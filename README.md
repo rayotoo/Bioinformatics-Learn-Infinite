@@ -12,4 +12,5 @@ Some useful links/Platforms for Bioinformatics directed analysis
 | :----:                  |    :----:                      | :---                                                                          |
 | Bulk RNA-seq            |Covers basic steps involved in RNA-seq analysis | [Bulk RNA-seq by Harvard Chan Bioinformatics Core (HBC)](https://www.markdownguide.org/extended-syntax#heading-ids)             |
 | Single Cell RNA-Seq     | A walk through example of scRNA-seq      | [Single Cell RNA by Seurat](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html )  |
-| Proteomics              | A walk through example of proteomics analysis     | [Proteomics By StatOmics](https://statomics.github.io/PDA21/pda_quantification_preprocessing.html)                          |
+| Proteomics              | A walk through example of proteomics analysis     | [Proteomics By StatOmics](https://statomics.github.io/PDA21/pda_quantification_preprocessing.html)                      |
+| Microbiome              | A walk through example of microbiome analysis     | [By tanyabrown9](https://github.com/tanyabrown9/Resilient_vs_Susceptible_Mcapitata)                      |
